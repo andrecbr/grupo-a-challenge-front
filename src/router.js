@@ -8,7 +8,7 @@ export default new Router({
   routes: [
     {
       path: "/",
-      redirect: "/Students/list",
+      redirect: "/students/list",
     },
     {
       path: "/students/list",
